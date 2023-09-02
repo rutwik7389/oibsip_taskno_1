@@ -1,5 +1,5 @@
-CALCULATOR 
-script.js
+//CALCULATOR 
+//script.js
 
 // This function clear all the values
 function clearScreen() {
